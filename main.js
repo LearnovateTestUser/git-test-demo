@@ -1,0 +1,1 @@
+console.log('Log Content 1')
